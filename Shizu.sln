@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shizu", "Shizu.csproj", "{F59BEC72-FD48-4653-94FE-A7228FD87182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59BEC72-FD48-4653-94FE-A7228FD87182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59BEC72-FD48-4653-94FE-A7228FD87182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59BEC72-FD48-4653-94FE-A7228FD87182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59BEC72-FD48-4653-94FE-A7228FD87182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116D4B69-D5E6-4B3C-88DE-BACB66EC9D91}
+	EndGlobalSection
+EndGlobal
